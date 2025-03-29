@@ -41,3 +41,5 @@ Ensure your webcam is connected, and the system will start monitoring for drowsi
 - imutils  
 - SciPy  
 
+### NOTE
+ - You have to clone the yolov5 dir from github in the DD directory
